@@ -1,27 +1,21 @@
 AtomixCore Public Use License v1.0 (APUL-1.0)
 
-Copyright (C) 2025 Omar Mohamed (Leo)
+Copyright (C) 2025 Leo Lan
 
 Permission is hereby granted to any individual or organization ("User") to use this software for personal, educational, or internal business purposes, including within closed-source or proprietary systems.
 
 Subject to the following conditions:
 
-1. **No Redistribution Without Consent**  
-   Redistribution of this software, modified or unmodified, in any form (source or binary), is prohibited without **explicit, written permission** from the copyright holder.
-
-2. **No Commercial Resale or Rebranding**  
-   This software may not be sold, rebranded, sublicensed, or integrated into commercial platforms or SaaS products **without written approval** from the copyright holder.
-
-3. **Attribution Required**  
+1. No Redistribution Without Consent
+   Redistribution of this software, modified or unmodified, in any form (source or binary), is prohibited without explicit, written permission from the copyright holder.
+2. No Commercial Resale or Rebranding  
+   This software may not be sold, rebranded, sublicensed, or integrated into commercial platforms or SaaS products without written approval from the copyright holder.
+3. Attribution Required  
    Any use of the software must include clear attribution to the original author:  
-   `Omar Mohamed (Leo) - https://github.com/atomixcore`
-
-4. **Audit & Revocation Clause**  
+   `Leo Lan - https://github.com/atomixcore`
+4. Audit & Revocation Clause  
    The author reserves the right to audit or request information about usage in proprietary systems and may revoke usage rights if these terms are violated.
-
-5. **No Warranty**  
+5. No Warranty  
    This software is provided "as-is", without warranty of any kind, express or implied.
-
 For commercial licensing, extended usage, or redistribution rights, contact: [your_email@example.com]
-
-Licensed under the **APUL-1.0** License.
+Licensed under the APUL-1.0 License.
