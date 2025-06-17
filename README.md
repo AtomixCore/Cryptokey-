@@ -22,7 +22,7 @@ A secure, lightweight command-line tool for encrypting TOML configuration files 
 
 ```bash
 # Clone the repository
-git clone https://github.com/AtomixCore/Cryptokey-.git
+git clone https://github.com/AtomixCore/Cryptokey-tool.git
 cd Cryptokey-
 
 # Install dependencies
@@ -166,7 +166,7 @@ While this project is primarily for personal and internal use, suggestions and b
 
 - **Author**: Leo Lan
 - **GitHub**: https://github.com/AtomixCore
-- **Repository**: https://github.com/AtomixCore/Cryptokey-
+- **Repository**: https://github.com/AtomixCore/Cryptokey-tool
 - **License**: APUL-1.0
 
 ---
